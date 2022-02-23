@@ -30,10 +30,7 @@ public class MainActivity extends AppCompatActivity {
                 j=Password.getText().toString();
                 Toast.makeText(getApplicationContext(), "Successful", Toast.LENGTH_SHORT).show();
                 int c=0;
-                //this
-                //is
-                //just
-                //for branch
+                //comments deleted
                 for(int i=0;i<4;i++)
                 {
                     if(cred[i][0].equals(s) && cred[i][1].equals(j)){
